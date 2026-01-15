@@ -53,11 +53,11 @@ class AhsanAli:
         return "Building IoT projects for freelance clients & filming cars at motorsport events"
 ``` -->
 
-I'm a self-driven Electrical Engineer with 4+ years of experience who loves making machines see, think, and move! Currently serving as the **Lead R&D Engineer** at [**The Disrupt Labs**](https://thedisruptlabs.com/), where I lead end-to-end R&D projects involving design and implementation of classical & deep learning based **computer vision** systems and **robotics** based solutions.
+I'm a self-driven Electrical Engineer with 4+ years of experience who loves making computers see, think, and move! Currently serving as the **Lead R&D Engineer** at [**The Disrupt Labs**](https://thedisruptlabs.com/), where I lead end-to-end R&D projects involving design and implementation of classical & deep learning based **computer vision** systems and **robotics** based solutions.
 
-**By day** → Building systems that automate quality inspection compliance through AI  
+**By day** → Building systems that automate quality inspection compliance through AI & computer vision 
 **By night** → Working on IoT & embedded systems projects for freelance clients  
-**On weekends** → You'll most probably find me travelling or covering an offroad rally or a motorsports event 📸
+**On weekends** → You'll most probably find me travelling or covering an offroad rally or a motorsports event 
 
 ---
 
@@ -159,13 +159,10 @@ Apart from my professional work focusing on AI and computer vision, I still purs
 - **Smart IoT Hammer for Multiplayer Gaming** — Developed an IoT-enabled hammer game system with smash force detection, real-time score visualization, and multiplayer support via MQTT protocol
 - **Digital Scoreboard System** — Built a wireless digital scoreboard solution for indoor sports with a custom BLE mobile app for remote score updates, countdown timers, and display synchronization
 - **Dodge Attack Control Setup** — Designed embedded control systems for interactive dodge attack gaming setups with timer based interactive gameplay with dynamic sound control and scoring logic
+
 ---
 
 ## 🏎️ Motorsports & Creative Side
-
-<div align="center">
-
-</div>
 
 When I'm not building AI systems or tinkering with embedded projects, you'll find me at **off-road rallies** and **autocross events** across Pakistan!
 
@@ -175,28 +172,14 @@ I also love **filming cars** — capturing the raw energy and beauty of these ma
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Glimpse_from_Festival_of_Speed_(ISB)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+[![Instagram](https://img.shields.io/badge/Glimpse_from_Festival_of_Speed_(ISB)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/C6YPjP7taAQ/?igsh=MTRpdTJvY3ltOHU0Mw==)
 
 </div>
 
 ---
 
-<!-- ## 📊 GitHub Stats
 
-<div align="center">
 
-<!-- GitHub Streak - Shows your consistency -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8EFC&fire=FF6B35&currStreakLabel=3F8EFC" alt="GitHub Streak" />
-
-<!-- Top Languages - Shows your tech stack -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC" alt="Top Languages" />
-
-<!-- Activity Graph - Shows contribution patterns -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=3F8EFC&point=FF6B35" alt="Activity Graph" />
-
-</div>
-
---- -->
 
 ## 🤝 Let's Connect!
 
