@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=800&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Tinkering+with+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=52&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=800&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Tinkering+with+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
 
 <br>
 
