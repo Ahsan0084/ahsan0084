@@ -25,7 +25,7 @@
       <sub><b>📡 Embedded & IoT</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/motorsports_travelling.gif" width="280" alt="Motorsports"/>
+      <img src="assets/motorsports_2.gif" width="280" alt="Motorsports"/>
       <br>
       <sub><b>🏁 Travelling & Motorsports</b></sub>
     </td>
