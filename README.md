@@ -57,14 +57,14 @@ I'm a self-driven Electrical Engineer with 4+ years of experience who loves maki
 
 **By day** → Building systems that automate quality inspection compliance through AI  
 **By night** → Working on IoT & embedded systems projects for freelance clients  
-**On weekends** → You'll most probably find me travelling or covering an offroad rally or autocross event 📸
+**On weekends** → You'll most probably find me travelling or covering an offroad rally or a motorsports event 📸
 
 ---
 
 ## 🏆 Key Achievements
 
 <details>
-<summary><b>⚽ Football Defect Detection - 1mm Precision @ 1 panel/sec [🔗](YOUR_LINK_HERE) </b></summary>
+<summary><b>⚽ Football Defect Detection - 1mm Precision @ 1 panel/sec </b></summary>
 <br>
 Achieved precise defect detection down to <b>1mm</b> by creating a hybrid deep-learning + classical image-processing pipeline for football panel defects in collaboration with <b>Forward Sports</b> and <b>Adidas</b>:
 
@@ -77,15 +77,15 @@ Achieved precise defect detection down to <b>1mm</b> by creating a hybrid deep-l
 </details>
 
 <details>
-<summary><b>🤖 Autonomous Mobile Robot - 1000kg Payload Capacity [🔗](YOUR_LINK_HERE)</b></summary>
+<summary><b>🤖 Autonomous Mobile Robot - 1000kg Payload Capacity [🔗](https://drive.google.com/drive/folders/1lVXG8R8F0uS2LmW2I8u58P9UwUj-jmU7?usp=sharing) </b></summary>
 <br>
-Designed & developed an Autonomous Mobile Robot in ROS, integrating LiDAR, IMU, and wheel-encoder sensor fusion (EKF) for localization and drift-free robot pose estimation. The robot can tow up to 1000 kg payloads using SLAM and Dijkstra's algorithm for autonomous navigation.
+Designed & developed an <b>Autonomous Mobile Robot<b> in <b>ROS<b>, integrating <b>LiDAR<b>, IMU, and wheel-encoder sensor fusion (EKF) for localization and drift-free robot pose estimation. The robot can tow up to 1000 kg payloads using <b>SLAM<b> and <b>Dijkstra<b>'s algorithm for autonomous navigation.
 
 
 </details>
 
 <details>
-<summary><b>💊 Life-Saving Wearable Device - Secured £500K UK Government Funding [🔗](YOUR_LINK_HERE) </b></summary> 
+<summary><b>💊 Life-Saving Wearable Device - Secured £500K UK Government Funding [🔗](https://drive.google.com/drive/folders/1-og4-lRl40Q_cFBigs7Y0cHcAP4xpOOW?usp=sharing) </b></summary> 
 <br>
 Enabled <b>NOMW Health Ltd</b> to secure £500K in competitive UK-government funding through the development of a life-saving wearable opioid-overdose detection device. Built a BLE data pipeline in C++ to extract vital-sign metrics via the AD Health Sensor Platform, and implemented edge device based location + SMS alert logic for emergency handling.
 
