@@ -186,13 +186,13 @@ I also love **filming cars** — capturing the raw energy and beauty of machines
 <div align="center">
 
 <!-- GitHub Streak - Shows your consistency -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8EFC&fire=FF6B35&currStreakLabel=3F8EFC" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsan0084&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8EFC&fire=FF6B35&currStreakLabel=3F8EFC" alt="GitHub Streak" />
 
 <!-- Top Languages - Shows your tech stack -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan0084&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC" alt="Top Languages" />
 
 <!-- Activity Graph - Shows contribution patterns -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=3F8EFC&point=FF6B35" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsan0084&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=3F8EFC&point=FF6B35" alt="Activity Graph" />
 
 </div>
 
