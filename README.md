@@ -2,7 +2,7 @@
 
 # Hey there! I'm Ahsan Ali 👋
 
-### Lead R&D Engineer | AI Vision Systems | Embedded Systems | Robotics | Motorsports Enthusiast 
+### Lead R&D Engineer @ [TDL](https://thedisruptlabs.com/) | AI Vision Systems | Embedded Systems | Robotics | Motorsports Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-ali-695831130)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
