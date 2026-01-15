@@ -8,26 +8,26 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Vision+Systems+by+Day+🔬;Tinkering+with+IoT+%26+Embedded+Systems+by+Night+🌙;Traveling+or+Chasing+Motorsports+Events+on+Weekends+🏁" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=800&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Tinkering+with+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
 
 <br>
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/ai_vision_robotics.gif" width="280" alt="AI Vision Systems"/>
+      <img src="assets/ai_vision_robotics_2.gif" width="280" alt="AI Vision Systems"/>
       <br>
-      <sub><b>🔬 AI Vision Systems</b></sub>
+      <sub><b>🤖 AI Vision Systems</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="YOUR_EMBEDDED_IOT_GIF" width="280" alt="Embedded & IoT"/>
+      <img src="assets/embedded_iot.gif" width="280" alt="Embedded & IoT"/>
       <br>
-      <sub><b>🌙 Embedded & IoT</b></sub>
+      <sub><b>📡 Embedded & IoT</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="YOUR_MOTORSPORTS_GIF" width="280" alt="Motorsports"/>
+      <img src="assets/motorsports_travelling.gif" width="280" alt="Motorsports"/>
       <br>
-      <sub><b>🏁 Motorsports</b></sub>
+      <sub><b>🏁 Travelling & Motorsports</b></sub>
     </td>
   </tr>
 </table>
