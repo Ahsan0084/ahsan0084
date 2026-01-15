@@ -96,7 +96,7 @@ Designed & developed an <b>Autonomous Mobile Robot<b> in <b>ROS<b>, integrating 
 </details>
 
 <details>
-<summary><b>💊 Life-Saving Wearable IoT Device - Secured £500K UK Govt. Funding for Client <a href="https://drive.google.com/drive/folders/1-og4-lRl40Q_cFBigs7Y0cHcAP4xpOOW?usp=sharing">🔗</a></b></summary> 
+<summary><b>💊 Life-Saving Wearable IoT Device - Secured £500K Funding by UK Govt. for Client <a href="https://drive.google.com/drive/folders/1-og4-lRl40Q_cFBigs7Y0cHcAP4xpOOW?usp=sharing">🔗</a></b></summary> 
 <br>
 Enabled <b>NOMW Health Ltd</b> to secure £500K in competitive UK-government funding through the development of a life-saving wearable <b>opioid-overdose<b> detection device. Built a BLE data pipeline in C++ to extract vital-sign metrics via the AD Health Sensor Platform, and implemented edge device based location + SMS alert logic for emergency handling.
 
@@ -117,8 +117,8 @@ Enabled <b>NOMW Health Ltd</b> to secure £500K in competitive UK-government fun
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge&logoColor=white)
-![RNNs](https://img.shields.io/badge/RNNs-FF6F00?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-FF6F00?style=for-the-badge&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logoColor=black)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
@@ -156,8 +156,8 @@ Apart from my professional work focusing on AI and computer vision, I still purs
 ### Side Projects & Freelance Work
 
 - **Medical-Grade Smart Neonatal Phototherapy Device** — Designed and developed a smart phototherapy device for neonatal jaundice treatment with controlled light intensity and safety monitoring
-- **Smart IoT Hammer for Arcade Gaming** — Developed an IoT-enabled hammer game system with smash force detection, real-time score visualization, and multiplayer support via MQTT protocol
-- **Digital Scoreboard System** — Built a wireless digital scoreboard solution for indoor sports with a custom BLE mobile app for remote score updates, countdown timers, and multi-display synchronization
+- **Smart IoT Hammer for Multiplayer Gaming** — Developed an IoT-enabled hammer game system with smash force detection, real-time score visualization, and multiplayer support via MQTT protocol
+- **Digital Scoreboard System** — Built a wireless digital scoreboard solution for indoor sports with a custom BLE mobile app for remote score updates, countdown timers, and display synchronization
 - **Dodge Attack Control Setup** — Designed embedded control systems for interactive dodge attack gaming setups with timer based interactive gameplay with dynamic sound control and scoring logic
 ---
 
@@ -171,32 +171,32 @@ When I'm not building AI systems or tinkering with embedded projects, you'll fin
 
 I've worked part-time as a **Race Data and Timing Engineer**, providing real-time data monitoring and technical support for major motorsport events. There's something magical about combining my engineering skills with my passion for motorsports 🏁
 
-I also love **filming cars** — capturing the raw energy and beauty of machines in motion. It's my creative side that keeps my passion for cars and motorsports alive!
+I also love **filming cars** — capturing the raw energy and beauty of these machines in motion. It's my creative side that keeps my passion for cars and motorsports alive!
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Check_Out_My_Car_Films-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+[![Instagram](https://img.shields.io/badge/Glimpse_from_Festival_of_Speed_(ISB)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
 <!-- GitHub Streak - Shows your consistency -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsan0084&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8EFC&fire=FF6B35&currStreakLabel=3F8EFC" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8EFC&fire=FF6B35&currStreakLabel=3F8EFC" alt="GitHub Streak" />
 
 <!-- Top Languages - Shows your tech stack -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan0084&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC" alt="Top Languages" />
 
 <!-- Activity Graph - Shows contribution patterns -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsan0084&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=3F8EFC&point=FF6B35" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8EFC&line=3F8EFC&point=FF6B35" alt="Activity Graph" />
 
 </div>
 
----
+--- -->
 
 ## 🤝 Let's Connect!
 
