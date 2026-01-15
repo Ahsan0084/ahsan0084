@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=800&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Tinkering+with+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Tinkering+with+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
 
 <br>
 
@@ -64,23 +64,7 @@ I'm a self-driven Electrical Engineer with 4+ years of experience who loves maki
 ## 🏆 Key Achievements
 
 <details>
-<summary><b>💊 Life-Saving Wearable Device - Secured £500K UK Government Funding</b></summary>
-<br>
-Enabled <b>NOMW Health Ltd</b> to secure £500K in competitive UK-government funding through the development of a life-saving wearable opioid-overdose detection device. Built a BLE data pipeline in C++ to extract vital-sign metrics via the AD Health Sensor Platform, and implemented edge device based location + SMS alert logic for emergency handling.
-
-🔗 [Project Documentation](YOUR_LINK_HERE)
-</details>
-
-<details>
-<summary><b>🤖 Autonomous Mobile Robot - 1000kg Payload Capacity</b></summary>
-<br>
-Designed & developed an Autonomous Mobile Robot in ROS, integrating LiDAR, IMU, and wheel-encoder sensor fusion (EKF) for localization and drift-free robot pose estimation. The robot can tow up to 1000 kg payloads using SLAM and Dijkstra's algorithm for autonomous navigation.
-
-🔗 [Project Demo](YOUR_LINK_HERE)
-</details>
-
-<details>
-<summary><b>⚽ Football Defect Detection - 1mm Precision @ 1 panel/sec</b></summary>
+<summary><b>⚽ Football Defect Detection - 1mm Precision @ 1 panel/sec [🔗](YOUR_LINK_HERE) </b></summary>
 <br>
 Achieved precise defect detection down to <b>1mm</b> by creating a hybrid deep-learning + classical image-processing pipeline for football panel defects in collaboration with <b>Forward Sports</b> and <b>Adidas</b>:
 
@@ -90,8 +74,23 @@ Achieved precise defect detection down to <b>1mm</b> by creating a hybrid deep-l
 - Shift-register based panel rejection pipeline
 - WebSocket-based real-time visualization dashboard
 
-🔗 [Project Details](YOUR_LINK_HERE)
 </details>
+
+<details>
+<summary><b>🤖 Autonomous Mobile Robot - 1000kg Payload Capacity [🔗](YOUR_LINK_HERE)</b></summary>
+<br>
+Designed & developed an Autonomous Mobile Robot in ROS, integrating LiDAR, IMU, and wheel-encoder sensor fusion (EKF) for localization and drift-free robot pose estimation. The robot can tow up to 1000 kg payloads using SLAM and Dijkstra's algorithm for autonomous navigation.
+
+
+</details>
+
+<details>
+<summary><b>💊 Life-Saving Wearable Device - Secured £500K UK Government Funding [🔗](YOUR_LINK_HERE) </b></summary> 
+<br>
+Enabled <b>NOMW Health Ltd</b> to secure £500K in competitive UK-government funding through the development of a life-saving wearable opioid-overdose detection device. Built a BLE data pipeline in C++ to extract vital-sign metrics via the AD Health Sensor Platform, and implemented edge device based location + SMS alert logic for emergency handling.
+
+</details>
+
 
 ---
 
