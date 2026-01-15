@@ -55,7 +55,7 @@ class AhsanAli:
 
 I'm a self-driven Electrical Engineer with 4+ years of experience who loves making computers see, think, and move! Currently serving as the **Lead R&D Engineer** at [**The Disrupt Labs**](https://thedisruptlabs.com/), where I lead end-to-end R&D projects involving design and implementation of classical & deep learning based **computer vision** systems and **robotics** based solutions.
 
-**By day** → Building systems that automate quality inspection compliance through AI & computer vision 
+**By day** → Building systems that automate quality inspection compliance through AI & computer vision                   
 **By night** → Working on IoT & embedded systems projects for freelance clients  
 **On weekends** → You'll most probably find me travelling or covering an offroad rally or a motorsports event 
 
@@ -185,7 +185,7 @@ I also love **filming cars** — capturing the raw energy and beauty of these ma
 
 <div align="center">
 
-Got an interesting project? Want to talk about AI, robotics, or just geek out about motorsports? Hit me up! 
+Want to talk about AI, robotics, or just geek out about motorsports? Hit me up! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-ali-695831130)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanali3435bu@gmail.com)
