@@ -5,8 +5,8 @@
 ### Lead R&D Engineer @ [TDL](https://thedisruptlabs.com/) | AI Vision Systems | Embedded Systems | Robotics | Motorsports Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-ali-695831130)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Tinkering+with+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
 
