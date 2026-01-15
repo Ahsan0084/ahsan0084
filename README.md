@@ -56,7 +56,7 @@ class AhsanAli:
 I'm a self-driven Electrical Engineer with 4+ years of experience who loves making machines see, think, and move! Currently serving as the **Lead R&D Engineer** at [**The Disrupt Labs**](https://thedisruptlabs.com/), where I lead end-to-end R&D projects involving design and implementation of classical & deep learning based **computer vision** systems and **robotics** based solutions.
 
 **By day** → Building systems that automate quality inspection compliance through AI  
-**By night** → Working and tinkering on IoT & embedded systems projects for freelance clients  
+**By night** → Working on IoT & embedded systems projects for freelance clients  
 **On weekends** → You'll most probably find me travelling or covering an offroad rally or autocross event 📸
 
 ---
