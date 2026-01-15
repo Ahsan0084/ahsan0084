@@ -20,7 +20,7 @@
       <sub><b>🤖 AI Vision Systems</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/embedded_iot.gif" width="280" alt="Embedded & IoT"/>
+      <img src="assets/embedded_2.gif" width="280" alt="Embedded & IoT"/>
       <br>
       <sub><b>📡 Embedded & IoT</b></sub>
     </td>
