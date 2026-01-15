@@ -2,13 +2,35 @@
 
 # Hey there! I'm Ahsan Ali 👋
 
-### Lead R&D Engineer | AI Vision Systems | Embedded Tinkerer | Motorsports Enthusiast 🏎️
+### Lead R&D Engineer | AI Vision Systems | Embedded Systems | Robotics | Motorsports Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-ali-695831130)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Vision+Systems+by+Day+🔬;Tinkering+with+IoT+by+Night+🌙;Chasing+Motorsports+Events+on+Weekends+🏁" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Vision+Systems+by+Day+🔬;Tinkering+with+IoT+%26+Embedded+Systems+by+Night+🌙;Traveling+or+Chasing+Motorsports+Events+on+Weekends+🏁" alt="Typing SVG" />
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/ai_vision_robotics.gif" width="280" alt="AI Vision Systems"/>
+      <br>
+      <sub><b>🔬 AI Vision Systems</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="YOUR_EMBEDDED_IOT_GIF" width="280" alt="Embedded & IoT"/>
+      <br>
+      <sub><b>🌙 Embedded & IoT</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="YOUR_MOTORSPORTS_GIF" width="280" alt="Motorsports"/>
+      <br>
+      <sub><b>🏁 Motorsports</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -16,7 +38,7 @@
 
 ## 🚀 About Me
 
-```python
+<!-- ```python
 class AhsanAli:
     def __init__(self):
         self.role = "Lead R&D Engineer @ The Disrupt Labs"
@@ -29,13 +51,13 @@ class AhsanAli:
     
     def after_hours(self):
         return "Building IoT projects for freelance clients & filming cars at motorsport events"
-```
+``` -->
 
-I'm a self-driven engineer who loves making machines see and think! Currently leading the charge at **The Disrupt Labs**, where I design and develop AI-powered computer vision solutions paired with cutting-edge imaging systems.
+I'm a self-driven Electrical Engineer with 4+ years of experience who loves making machines see, think, and move! Currently serving as the **Lead R&D Engineer** at [**The Disrupt Labs**](https://thedisruptlabs.com/), where I lead end-to-end R&D projects involving design and implementation of classical & deep learning based **computer vision** systems and **robotics** based solutions.
 
 **By day** → Building systems that automate quality inspection compliance through AI  
-**By night** → Tinkering with IoT embedded systems for freelance clients  
-**On weekends** → You'll probably find me at a rally or autocross event with my camera 📸
+**By night** → Working and tinkering on IoT & embedded systems projects for freelance clients  
+**On weekends** → You'll most probably find me travelling or covering an offroad rally or autocross event 📸
 
 ---
 
