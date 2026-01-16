@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanali3435bu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/car_dexterous_guy/)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=570&size=32&pause=1300&color=FF7A18&center=true&vCenter=true&random=false&width=1000&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Working+on+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1300&color=FF7A18&center=true&vCenter=true&random=false&width=1000&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Working+on+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
 
 <br>
 
@@ -49,7 +49,7 @@ I’m a self-driven and passionate Electrical Engineer specialized in computer v
 ## 🏆 Key Achievements
 
 <details>
-<summary><b>⚽ AI based Football Defect Detection for Adidas - 1mm Precision @ 1 panel/sec <a href="YOUR_LINK_HERE">🔗</a></b></summary>
+<summary><b>⚽ AI based Football Defect Detection for Adidas - 1mm Precision @ 1 panel/sec </b></summary>
 <br>
 Achieved precise defect detection down to <b>1mm</b> by creating a hybrid deep-learning + classical image-processing pipeline for football panel defects in collaboration with <b>Forward Sports</b> and <b>Adidas</b>:
 
@@ -57,18 +57,19 @@ Achieved precise defect detection down to <b>1mm</b> by creating a hybrid deep-l
 - YOLO-based detection + ResNet-based anomaly model
 - Statistical classical image processing for micro-defects
 - Shift-register based panel rejection pipeline
-- WebSocket-based real-time visualization dashboard
+- WebSocket-based real-time visualization on dashboard
 
 </details>
 
 <details>
-<summary><b>🤖 AI based Reel-Roll Inspection System for Tetra Pak  <a href="YOUR_LINK_HERE">🔗</a></b></summary>
+<summary><b>🤖 AI based Reel-Roll Inspection System for Tetra Pak  </b></summary>
 <br>
 Achieved full automation of <b>Tetra Pak's</b> reel-roll inspection system by developing a complete computer-vision–based solution:
 
 - Implemented an <b>Optotune</b> lens autofocus algorithm (polynomial model) with a <b>Basler</b> MV camera
-- Built a <b>YOLO-based detection + OCR pipeline</b>
+- Built a <b>YOLO-based detection + PaddleOCR</b> pipeline
 - Developed a smart label-positioning based camera-motion algorithm
+- Achieved a 98% compliance accuracy rate in automated inspection 
 
 </details>
 
