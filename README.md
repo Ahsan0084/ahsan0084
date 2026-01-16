@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanali3435bu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/car_dexterous_guy/)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=1000&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Working+on+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=570&size=32&pause=1300&color=FF7A18&center=true&vCenter=true&random=false&width=1000&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Working+on+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
 
 <br>
 
@@ -27,7 +27,7 @@
     <td align="center" width="33%">
       <img src="assets/motorsports_2.gif" width="280" alt="Motorsports"/>
       <br>
-      <sub><b>🏁 Travelling & Motorsports</b></sub>
+      <sub><b>🏁 Traveling & Motorsports</b></sub>
     </td>
   </tr>
 </table>
@@ -38,26 +38,11 @@
 
 ## 🚀 About Me
 
-<!-- ```python
-class AhsanAli:
-    def __init__(self):
-        self.role = "Lead R&D Engineer @ The Disrupt Labs"
-        self.education = "Electrical Engineer (Electronics)"
-        self.experience = "4+ years"
-        self.passions = ["AI/Computer Vision", "Embedded Systems", "Robotics", "Motorsports 🏎️"]
-        
-    def current_mission(self):
-        return "Automating quality inspection through AI-driven vision systems"
-    
-    def after_hours(self):
-        return "Building IoT projects for freelance clients & filming cars at motorsport events"
-``` -->
-
-I'm a self-driven Electrical Engineer with 4+ years of experience who loves making computers see, think, and move! Currently serving as the **Lead R&D Engineer** at [**The Disrupt Labs**](https://thedisruptlabs.com/), where I lead end-to-end R&D projects involving design and implementation of classical & deep learning based **computer vision** systems and **robotics** based solutions.
+I’m a self-driven and passionate Electrical Engineer specialized in computer vision, robotics, and embedded systems — focused on enabling machines to see, think, and move. Currently serving as the **Lead R&D Engineer** at [**The Disrupt Labs**](https://thedisruptlabs.com/), where I lead end-to-end R&D projects involving design and implementation of classical & deep learning based **computer vision** systems and **robotics** based solutions.
 
 **By day** → Building systems that automate quality inspection compliance through AI & computer vision                   
 **By night** → Working on IoT & embedded systems projects for freelance clients  
-**On weekends** → You'll most probably find me travelling or covering an offroad rally or a motorsports event 
+**On weekends** → You'll most probably find me traveling or covering an offroad rally or a motorsports event 
 
 ---
 
@@ -90,7 +75,7 @@ Achieved full automation of <b>Tetra Pak's</b> reel-roll inspection system by de
 <details>
 <summary><b>🤖 ROS based Autonomous Mobile Robot - 1000kg Payload Capacity <a href="https://drive.google.com/drive/folders/1lVXG8R8F0uS2LmW2I8u58P9UwUj-jmU7?usp=sharing">🔗</a></b></summary>
 <br>
-Designed & developed an <b>Autonomous Mobile Robot<b> in <b>ROS<b>, integrating <b>LiDAR<b>, IMU, and wheel-encoder sensor fusion (EKF) for localization and drift-free robot pose estimation. The robot can tow up to 1000 kg payloads using <b>SLAM<b> and <b>Dijkstra<b>'s algorithm for autonomous navigation.
+Designed & developed an <b>Autonomous Mobile Robot</b> in <b>ROS</b>, integrating <b>LiDAR</b>, IMU, and wheel-encoder sensor fusion (EKF) for localization and drift-free robot pose estimation. The robot can tow up to 1000 kg payloads using <b>SLAM</b> and <b>Dijkstra</b>'s algorithm for autonomous navigation.
 
 
 </details>
@@ -98,7 +83,7 @@ Designed & developed an <b>Autonomous Mobile Robot<b> in <b>ROS<b>, integrating 
 <details>
 <summary><b>💊 Life-Saving Wearable IoT Device - Secured £500K Funding by UK Govt. for Client <a href="https://drive.google.com/drive/folders/1-og4-lRl40Q_cFBigs7Y0cHcAP4xpOOW?usp=sharing">🔗</a></b></summary> 
 <br>
-Enabled <b>NOMW Health Ltd</b> to secure £500K in competitive UK-government funding through the development of a life-saving wearable <b>opioid-overdose<b> detection device. Built a BLE data pipeline in C++ to extract vital-sign metrics via the AD Health Sensor Platform, and implemented edge device based location + SMS alert logic for emergency handling.
+Enabled <b>NOMW Health Ltd</b> to secure £500K in competitive UK-government funding through the development of a life-saving wearable <b>opioid-overdose</b> detection device. Built a BLE data pipeline in C++ to extract vital-sign metrics via the AD Health Sensor Platform, and implemented edge device based location + SMS alert logic for emergency handling.
 
 </details>
 
@@ -155,10 +140,10 @@ Apart from my professional work focusing on AI and computer vision, I still purs
 
 ### Side Projects & Freelance Work
 
-- **Medical-Grade Smart Neonatal Phototherapy Device** — Designed and developed a smart phototherapy device for neonatal jaundice treatment with controlled light intensity and safety monitoring
-- **Smart IoT Hammer for Multiplayer Gaming** — Developed an IoT-enabled hammer game system with smash force detection, real-time score visualization, and multiplayer support via MQTT protocol
-- **Digital Scoreboard System** — Built a wireless digital scoreboard solution for indoor sports with a custom BLE mobile app for remote score updates, countdown timers, and display synchronization
-- **Dodge Attack Control Setup** — Designed embedded control systems for interactive dodge attack gaming setups with timer based interactive gameplay with dynamic sound control and scoring logic
+- **Medical-Grade Smart Neonatal Phototherapy Device** — Designed and developed a smart phototherapy device for neonatal jaundice treatment with controlled ultraviolet light intensity and safety monitoring
+- **Smart IoT Hammer for Multiplayer Gaming** — Developed an IoT-enabled hammer game system with real-time smash force detection, real-time score visualization, and multiplayer support via MQTT protocol
+- **Digital Scoreboard System** — Built a wireless digital scoreboard solution for indoor sports with a custom BLE mobile app for remote score updates, countdown timers, and display synchronization on dot matrix display
+- **Dodge Attack Control Setup** — Designed edge device based control system for dodge attack indoor game with timer based interactive gameplay and dynamic sound control and scoring logic
 
 ---
 
@@ -198,7 +183,7 @@ Want to talk about AI, robotics, or just geek out about motorsports? Hit me up!
 
 <div align="center">
 
-### 💭 *"Engineering the future, one frame at a time"*
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=3F8EFC&style=for-the-badge&label=PROFILE+VIEWS)
 
