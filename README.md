@@ -164,7 +164,15 @@ I also love **filming cars** — capturing the raw energy and beauty of these ma
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan0084&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+
+</div>
+
+---
 
 
 ## 🤝 Let's Connect!
