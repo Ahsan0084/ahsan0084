@@ -2,7 +2,7 @@
 
 # Hey there! I'm Ahsan Ali 👋
 
-### Lead R&D Engineer @ [TDL](https://thedisruptlabs.com/) | AI Vision Systems | Embedded Systems | Robotics | Motorsports Enthusiast 
+### Senior Computer Vision Engineer @ [TDL](https://thedisruptlabs.com/) | AI Vision Systems | Robotics | Embedded Systems | Motorsports Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-ali-695831130)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanali3435bu@gmail.com)
@@ -17,7 +17,8 @@
     <td align="center" width="33%">
       <img src="assets/ai_vision_robotics_2.gif" width="280" alt="AI Vision Systems"/>
       <br>
-      <sub><b>🤖 AI Vision Systems</b></sub>
+      <sub><b>🤖 AI Vision Systems
+      & Robotics </b></sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/embedded_2.gif" width="280" alt="Embedded & IoT"/>
@@ -38,7 +39,7 @@
 
 ## 🚀 About Me
 
-I’m a self-driven and passionate Electrical Engineer specialized in computer vision, robotics, and embedded systems — focused on enabling machines to see, think, and move. Currently serving as the **Lead R&D Engineer** at [**The Disrupt Labs**](https://thedisruptlabs.com/), where I lead end-to-end R&D projects involving design and implementation of classical & deep learning based **computer vision** systems and **robotics** based solutions.
+Senior Computer Vision Engineer with 5+ years of experience designing and deploying production-grade deep learning and classical computer vision systems. Built and delivered real-time AI inspection pipelines achieving 1mm defect detection capability, 40 FPS real-time processing, and up to 95% QC overhead reduction for global clients including Adidas, Tetra Pak and Axens. Experienced in leading end-to-end AI driven computer vision projects from research to production deployment, managing cross-functional teams, and integrating industrial machine vision hardware with AI-driven systems.
 
 **By day** → Building systems that automate quality inspection compliance through AI & computer vision                   
 **By night** → Working on IoT & embedded systems projects for freelance clients  
