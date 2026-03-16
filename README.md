@@ -2,13 +2,13 @@
 
 # Hey there! I'm Ahsan Ali 👋
 
-### Senior Computer Vision Engineer @ [TDL](https://thedisruptlabs.com/) | AI Vision Systems | Robotics | Embedded Systems | Motorsports Enthusiast 
+### Senior Computer Vision Engineer @ [TDL](https://thedisruptlabs.com/) | Computer Vision | Robotics | Embedded Systems | Motorsports Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-ali-695831130)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanali3435bu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/car_dexterous_guy/)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1300&color=FF7A18&center=true&vCenter=true&random=false&width=1000&lines=Building+AI+Vision+Systems+by+Day+👨‍💻🤖;Working+on+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1300&color=FF7A18&center=true&vCenter=true&random=false&width=1000&lines=Building+AI+Vision+&+Robotics+Systems+by+Day+👨‍💻🤖;Working+on+IoT+%26+Embedded+Systems+by+Night+📡💻;Chasing+Motorsports+Events+on+Weekends+🏁🏎️" alt="Typing SVG" />
 
 <br>
 
@@ -17,8 +17,7 @@
     <td align="center" width="33%">
       <img src="assets/ai_vision_robotics_2.gif" width="280" alt="AI Vision Systems"/>
       <br>
-      <sub><b>🤖 AI Vision Systems
-      & Robotics </b></sub>
+      <sub><b>🤖 Computer Vision & Robotics </b></sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/embedded_2.gif" width="280" alt="Embedded & IoT"/>
