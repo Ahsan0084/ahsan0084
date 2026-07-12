@@ -2,7 +2,7 @@
 
 # Hey there! I'm Ahsan Ali 👋
 
-### Senior Computer Vision Engineer @ [TDL](https://thedisruptlabs.com/) | Computer Vision | Robotics | Embedded Systems | Motorsports Enthusiast 
+### Senior Computer Vision Engineer | AI | Robotics | Embedded Systems | Motorsports Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-ali-695831130)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanali3435bu@gmail.com)
